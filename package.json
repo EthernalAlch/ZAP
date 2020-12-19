@@ -1,8 +1,10 @@
 {
   "name": "zapbot",
   "version": "1.0.0",
-  "description": "A customized modular all-in-one Discord bot.",
+  "description": "NO",
   "main": "bot.js",
+   "engines": {
+    "node": "12.1"
   "dependencies": {
     "@vitalets/google-translate-api": "^3.0.0",
     "data-store": "^4.0.3",
